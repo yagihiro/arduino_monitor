@@ -1,0 +1,87 @@
+h1. arduino monitor
+
+Arduino monitor is monitoring application with all pin value on Arduino.
+
+This project's source code repository is here.
+* github: http://github.com/yagihiro/arduino_monitor/tree/master
+
+h1. SYNOPSIS:
+
+under construction...
+
+h1. FEATURES:
+
+under construction...
+
+h1. REQUIREMENTS
+
+* Arduino 0013 IDE
+* Arduino Duemilanove
+* ruby on rails 2.0.x or higher
+
+h1. LICENSE:
+
+arduino.pde, arduino_controller.rb, index.html.erb
+----------------------------------------------------------------------
+Copyright (c) 2009 Hiroki Yagita
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+----------------------------------------------------------------------
+
+excanvas.js, excanvas.pack.js
+----------------------------------------------------------------------
+Copyright 2006 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+----------------------------------------------------------------------
+
+jquery.flot.js, jquery.flot.pack.js
+----------------------------------------------------------------------
+Released under the MIT license by IOLA, December 2007.
+----------------------------------------------------------------------
+
+jquery.js
+----------------------------------------------------------------------
+Copyright (c) 2008 John Resig (jquery.com)
+Dual licensed under the MIT (MIT-LICENSE.txt)
+and GPL (GPL-LICENSE.txt) licenses.
+----------------------------------------------------------------------
+
+jquery.timer.js
+----------------------------------------------------------------------
+Licensed under the BSD License:
+http://mattptr.net/license/license.txt
+----------------------------------------------------------------------
+
+
+h1. AUTHOR:
+
+Hiroki Yagita <yagihiro@gmail.com>
+* blog: http://d.hatena.ne.jp/clayfish/
